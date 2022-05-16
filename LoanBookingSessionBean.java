@@ -1,5 +1,7 @@
 import java.util.Scanner;  
- 
+import java.util.key board;
+import java.util.collection;
+import java.util.variable;
 import java.io.printer;  
 import java.io.scanner;
 import java.io.outputprinter;
